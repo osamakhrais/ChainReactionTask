@@ -1,5 +1,6 @@
 # ChainReactionTask
 This is the solution for the Junior Software Engineer Assignment position in Chain Reaction.
+
 Solved by Osama Mousa Khrais - osamakhries@gmail.com - on Friday 22/07/2022.
 
 Junior Software Engineer Assignment
@@ -23,7 +24,6 @@ Example:
 sortList { 3 6 8 7 0 1 4 2 9 5 }
 => { 0 1 2 3 4 5 6 7 8 9 }
 
-Page 1 of 3
 
 2. Valid Hex Code
 Create a function using PHP that determines whether a string is a valid hex code.
@@ -46,7 +46,6 @@ isValidHexCode("#CD5C&C") ➞ false
 isValidHexCode("CD5C5C") ➞ false
 // Missing #
 
-Page 2 of 3
 
 3. Web Page
 A company is collecting the contact information of their clients, to help them you need to
